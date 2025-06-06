@@ -167,6 +167,7 @@ a {
 
 a:hover {
   background-image: linear-gradient(to right, #ff6a3a 0%, #ff527b 100%);
+  box-shadow: 0 1.6rem 3.2rem 0 rgba(255, 97, 85, 0.5);
 }
 
 input::placeholder {
